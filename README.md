@@ -1,7 +1,65 @@
-### Hi there 👋
+ ## Hi there, it's a pleasure see your here :)
 
+***
+
+I am Reberth and i'm from São Paulo/Brazil. A developer that's current working with javascript and kotlin.
+
+Current working on Cernov Apps, we work developing mobile apps using react-native and flutter. Some customers are:
+
+* Delfos IM 
+* Way 2
+* Ingle
+
+Besides that, i'm current student of Computer Engenering on Universidade Federal de São Paulo.
+
+
+Nowadays i'm developing new projects, they are: 
+
+> ###Answer Anything 
+> A research platform like google forms that empower researchs in-loco. Check the mobile repo:
+
+> ###Hyper Cloud 
+> A cloud storage like Dropbox based on ownCloud project. 
+
+> ###Rickzera Bot
+> A discord bot that empower music listening
+
+
+****
+
+## What i'm looking for?
+
+***
+
+My goal is work with autonomous cars, developing on-board systems using the cloud.
+
+
+***
+
+## What i'm learning today?
+
+***
+
+Day by day i'm studying the Azure and Google Cloud to enhance my comprehension about the cloud. All the knowledge got are applied on my projets.
+
+
+***
+
+
+## Articles written
+
+***
+
+
+1. TODO - Firebase emulator, a complete guide on how to use.
+2. TODO - In-App Purchase, a complete guide on how to set up.
+
+***
+
+## That's it! I'm current looking for jobs out-side of Brazil, touch me through my email: <a href="mailto:reberthkss@outlook.com"> reberthkss@outlook.com</a>
 <!--
 **reberthkss/reberthkss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
