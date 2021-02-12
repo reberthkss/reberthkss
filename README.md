@@ -2,7 +2,7 @@
 
 ***
 
-Hi! I'm Reberth, from São Paulo/Brazil. A developer that's current working with mobile development.
+Hi! My name is Reberth and i'm from São Paulo/Brazil. A developer that's current working with mobile development.
 
 Current working on Cernov Apps, we work developing mobile apps using react-native and flutter. Some customers are:
 
