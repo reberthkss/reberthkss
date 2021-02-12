@@ -15,13 +15,13 @@ Besides that, i'm current student of Computer Engenering on Universidade Federal
 
 Nowadays i'm developing new projects, they are: 
 
- #Answer Anything 
+ ### Answer Anything 
  A research platform like google forms that empower researchs in-loco. Check the mobile repo:
 
- #Hyper Cloud 
+ ### Hyper Cloud 
  A cloud storage like Dropbox based on ownCloud project. 
 
- #Rickzera Bot
+ ### Rickzera Bot
 A discord bot that empower music listening
 
 
