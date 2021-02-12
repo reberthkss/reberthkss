@@ -2,7 +2,7 @@
 
 ***
 
-I am Reberth and i'm from São Paulo/Brazil. A developer that's current working with javascript and kotlin.
+Hi! I'm Reberth, from São Paulo/Brazil. A developer that's current working with mobile development.
 
 Current working on Cernov Apps, we work developing mobile apps using react-native and flutter. Some customers are:
 
@@ -15,13 +15,13 @@ Besides that, i'm current student of Computer Engenering on Universidade Federal
 
 Nowadays i'm developing new projects, they are: 
 
-> ###Answer Anything 
+> #Answer Anything 
 > A research platform like google forms that empower researchs in-loco. Check the mobile repo:
 
-> ###Hyper Cloud 
+> #Hyper Cloud 
 > A cloud storage like Dropbox based on ownCloud project. 
 
-> ###Rickzera Bot
+> #Rickzera Bot
 > A discord bot that empower music listening
 
 
@@ -31,7 +31,7 @@ Nowadays i'm developing new projects, they are:
 
 ***
 
-My goal is work with autonomous cars, developing on-board systems using the cloud.
+My goal is work with autonomous cars, developing on-board systems using the cloud and improving mobile development skills.
 
 
 ***
@@ -40,7 +40,7 @@ My goal is work with autonomous cars, developing on-board systems using the clou
 
 ***
 
-Day by day i'm studying the Azure and Google Cloud to enhance my comprehension about the cloud. All the knowledge got are applied on my projets.
+Day by day i'm studying the Azure and Google Cloud to enhance my comprehension about the cloud. All the knowledge got are applied on my side projets.
 
 
 ***
