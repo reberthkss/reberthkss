@@ -25,36 +25,32 @@ Nowadays i'm developing new projects, they are:
 A discord bot that empower music listening
 
 
-****
+
 
 ## What i'm looking for?
 
-***
+
 
 My goal is work with autonomous cars, developing on-board systems using the cloud and improving mobile development skills.
 
 
-***
 
 ## What i'm learning today?
 
-***
+
 
 Day by day i'm studying the Azure and Google Cloud to enhance my comprehension about the cloud. All the knowledge got are applied on my side projets.
 
 
-***
-
-
 ## Articles written
 
-***
+
 
 
 1. TODO - Firebase emulator, a complete guide on how to use.
 2. TODO - In-App Purchase, a complete guide on how to set up.
 
-***
+
 
 ## That's it! I'm current looking for jobs out-side of Brazil, touch me through my email: <a href="mailto:reberthkss@outlook.com"> reberthkss@outlook.com</a>
 <!--
