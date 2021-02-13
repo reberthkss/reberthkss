@@ -21,7 +21,7 @@ Besides that, i'm student of Computer Engenering on Universidade Federal de São
 Nowadays i'm developing new projects, they are: 
 
  ### [Answer Anything](https://answeranything-ce6e4.web.app)
- A research platform like google forms that empower researchs in-loco. Check the mobile repo:
+ A research platform like google forms that empower researchs in-loco. Check the mobile repo [here](https://github.com/reberthkss/AnswerAnythingAndroid)
 
  ### [Hyper Cloud](https://cloud.digitalsolution.sjc.br) 
  A cloud storage like Dropbox based on ownCloud project. 
@@ -37,7 +37,7 @@ A discord bot that empower music listening
 
 
 
-Day by day i'm studying the Azure and Google Cloud to enhance my comprehension about the cloud. All the knowledge got are applied on my side projets.
+Day by day i'm studying the Azure and Google Cloud technologies to enhance my comprehension about the cloud. All the knowledge got are applied on my side projets.
 
 
 
