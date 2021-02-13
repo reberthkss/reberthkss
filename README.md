@@ -2,6 +2,8 @@
 
 ***
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reberthkss)](https://github.com/anuraghazra/github-readme-stats)
+
 Hi! My name is Reberth and i'm from São Paulo/Brazil. A developer that's current working with mobile development.
 
 Current working on Cernov Apps, we work developing mobile apps using react-native and flutter. Some customers are:
