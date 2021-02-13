@@ -21,7 +21,10 @@ Besides that, i'm student of Computer Engenering on Universidade Federal de São
 Nowadays i'm developing new projects, they are: 
 
  ### [Answer Anything](https://answeranything-ce6e4.web.app)
- A research platform like google forms that empower researchs in-loco. Check the mobile repo [here](https://github.com/reberthkss/AnswerAnythingAndroid)
+ A research platform like google forms that empower researchs in-loco. Check the repos:
+ 
+ * Mobile (Android only) [here](https://github.com/reberthkss/AnswerAnythingAndroid)
+ * Web [here](https://github.com/reberthkss/Answer-Anything)
 
  ### [Hyper Cloud](https://cloud.digitalsolution.sjc.br) 
  A cloud storage like Dropbox based on ownCloud project. 
