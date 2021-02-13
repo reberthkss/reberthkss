@@ -15,7 +15,7 @@ Current working on Cernov Apps, we work developing mobile apps using react-nativ
 * Way 2
 * Ingle
 
-Besides that, i'm current student of Computer Engenering on Universidade Federal de São Paulo.
+Besides that, i'm student of Computer Engenering on Universidade Federal de São Paulo.
 
 
 Nowadays i'm developing new projects, they are: 
