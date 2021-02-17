@@ -11,9 +11,9 @@ Hi! My name is Reberth and i'm from São Paulo/Brazil. A developer that's curren
 
 Current working on Cernov Apps, we work developing mobile apps using react-native and flutter. Some customers are:
 
-* Delfos IM 
-* Way 2
-* Ingle
+* [Delfos IM](https://delfosim.com/)
+* [Way 2](https://www.way2.com.br/)
+* [Ingle](https://ingle.com.br/)
 
 Besides that, i'm student of Computer Engenering on Universidade Federal de São Paulo.
 
