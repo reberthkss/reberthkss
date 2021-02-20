@@ -9,7 +9,7 @@
 
 Hi! My name is Reberth and i'm from São Paulo/Brazil. A developer that's current working with mobile development.
 
-Current working on [Cernov Apps](github.com/cernovapps), we work developing mobile apps using react-native and flutter. Some customers are:
+Current working on [Cernov Apps](https://github.com/cernovapps), we work developing mobile apps using react-native and flutter. Some customers are:
 
 * [Delfos IM](https://delfosim.com/)
 * [Way 2](https://www.way2.com.br/)
