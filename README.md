@@ -15,7 +15,7 @@ Current working on [Cernov Apps](https://github.com/cernovapps), we work develop
 * [Way 2](https://www.way2.com.br/)
 * [Ingle](https://ingle.com.br/)
 
-Besides that, i'm student of Computer Engenering on Universidade Federal de São Paulo.
+Besides that, i'm student of Computer Engineenering on Universidade Federal de São Paulo.
 
 
 Nowadays i'm developing new projects, they are: 
