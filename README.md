@@ -30,7 +30,7 @@ Nowadays i'm developing new projects, they are:
  A cloud storage like Dropbox based on ownCloud project. 
  
  ### LoL Alert
- Receive notification for the moment that league of legends match is started
+ Receive notification for the moment that league of legends match is started. The video below walktrought the details of the app (in PT-BR).
  * https://www.youtube.com/watch?v=DeKdnpHCvWg
 
  ### Rickzera Bot
