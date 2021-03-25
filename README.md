@@ -9,7 +9,7 @@
 
 Hi! My name is Reberth and i'm from São Paulo/Brazil. I work with mobile development.
 
-Current working on [Cernov Apps](https://github.com/cernovapps), we develop mobile apps using react-native, flutter or native (Kotlin or Swift). Some customers are:
+Currently working in [Cernov Apps](https://github.com/cernovapps), we develop mobile apps using react-native, flutter or native (Kotlin or Swift). Some customers are:
 
 * [Delfos IM](https://delfosim.com/)
 * [Way 2](https://www.way2.com.br/)
@@ -28,6 +28,10 @@ Nowadays i'm developing new projects, they are:
 
  ### [Hyper Cloud](https://cloud.digitalsolution.sjc.br) 
  A cloud storage like Dropbox based on ownCloud project. 
+ 
+ ### LoL Alert
+ Receive notification for the moment that league of legends match is started
+ * https://www.youtube.com/watch?v=DeKdnpHCvWg
 
  ### Rickzera Bot
 A discord bot that empower music listening
