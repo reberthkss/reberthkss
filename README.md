@@ -39,12 +39,3 @@ A discord bot that empower music listening
 
 
 
-
-## What i'm learning today?
-
-
-
-Day by day i'm studying the Azure and Google Cloud technologies to enhance my comprehension about the cloud. All the knowledge got are applied on my side projets.
-
-
-
