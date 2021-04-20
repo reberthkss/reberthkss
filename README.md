@@ -2,7 +2,6 @@
 
 ***
 
-![alt text](https://storage.googleapis.com/dialogyloltwitch/Banner%20github.png)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reberthkss&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reberthkss&hide=c%2B%2B,NSIS,CMAKE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
