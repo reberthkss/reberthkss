@@ -8,16 +8,10 @@
 
 Hi! My name is Reberth and i'm from São Paulo/Brazil. I work with mobile development.
 
-Currently working in [Cernov Apps](https://github.com/cernovapps), we develop mobile apps using react-native, flutter or native (Kotlin or Swift). Some customers are:
+Currently working in [Delfos IM](https://delfosim.com/), we develop intelligent insights solutions to energy sector (solar, hydric and wind power).
+Besides that, i'm student of Computer Engineneering on Universidade Federal de São Paulo and i focus in learn about Cloud Computing and Mobile apps.
 
-* [Delfos IM](https://delfosim.com/)
-* [Way 2](https://www.way2.com.br/)
-* [Ingle](https://ingle.com.br/)
-
-Besides that, i'm student of Computer Engineneering on Universidade Federal de São Paulo.
-
-
-Nowadays i'm developing new projects, they are: 
+My portfolio:
 
  ### [Answer Anything](https://answeranything-ce6e4.web.app)
  A research platform like google forms that empower researchs in-loco. Check the repos:
@@ -25,15 +19,20 @@ Nowadays i'm developing new projects, they are:
  * Mobile (Android only) [here](https://github.com/reberthkss/AnswerAnythingAndroid)
  * Web [here](https://github.com/reberthkss/Answer-Anything)
 
- ### [Hyper Cloud](https://cloud.digitalsolution.sjc.br) 
+ ### [Hyper Cloud](https://cloud.digitalsolution.sjc.br)  (cancelled)
  A cloud storage like Dropbox based on ownCloud project. 
  
- ### LoL Alert
+ ### LoL Alert (in progress)
  Receive notification for the moment that league of legends match is started. The video below walktrought the details of the app (in PT-BR).
  * https://www.youtube.com/watch?v=DeKdnpHCvWg
 
- ### Rickzera Bot
-A discord bot that empower music listening
+ ### Rickzera Bot (cancelled)
+ A discord bot that empower music listening
+
+ ### Shop List
+ Organize your super market cart before move to them, find the best price and the better suggestions.
+ 
+ 
 
 
 
