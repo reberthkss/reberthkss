@@ -8,7 +8,9 @@
 
 Hi! My name is Reberth and i'm from São Paulo/Brazil. I work with mobile development.
 
-Currently working in [Delfos IM](https://delfosim.com/), we develop intelligent insights solutions to energy sector (solar, hydric and wind power).
+Currently working in [XP Inc](https://www.xpinc.com/)
+
+Previously worked at [Delfos IM](https://delfosim.com/), developing intelligent insights solutions to energy sector (solar, hydric and wind power).
 Besides that, i'm student of Computer Engineneering on Universidade Federal de São Paulo and i focus in learn about Cloud Computing and Mobile apps.
 
 My portfolio:
